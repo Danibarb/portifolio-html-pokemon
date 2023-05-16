@@ -1,0 +1,12 @@
+/*Resetando o CSS padrão do HTML do navegador
+Alterando a marqin o espaçamento interno e uma borda*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Removendo a bolinha na lista*/
+ul{
+    list-style: none;
+}
